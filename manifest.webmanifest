@@ -1,0 +1,33 @@
+{
+  "name": "SPA SPB SPC Rekenaar",
+  "short_name": "SPA SPB SPC",
+  "description": "Uitlijnhoeken SPA, SPB en SPC voor de TNC preset-tabel op een A/C-zwenkrondtafel.",
+  "lang": "nl",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e8ecee",
+  "theme_color": "#1a5ea8",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
